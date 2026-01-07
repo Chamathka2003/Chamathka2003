@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Software Engineering Student | NIBM Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamathka2003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
 </p>
 
 ---
@@ -50,24 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chamathka2003&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamathka2003&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🌟 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamathka2003&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### ✨ Quote
 
