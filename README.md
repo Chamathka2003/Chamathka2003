@@ -20,14 +20,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/chamathka-jayodavi-41986b2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="40" width="40" />
-</a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
 </a>
 </p>
 
